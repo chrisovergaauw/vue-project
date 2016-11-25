@@ -1,0 +1,11 @@
+{
+  "name": "vue-project",
+  "version": "0.0.1",
+  "description": "My first vue project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"everything is OK'"
+  },
+  "author": "Chris Overgaauw",
+  "license": "ISC"
+}
